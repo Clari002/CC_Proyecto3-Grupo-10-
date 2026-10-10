@@ -1,0 +1,7 @@
+# Binarios y ejecutables
+/src/cumple_mpi
+*.o
+*.exe
+
+# Archivos de configuración del editor
+.vscode/
